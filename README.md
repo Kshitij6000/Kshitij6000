@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kshitij6000
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding ,finance and general development of my personality!
 - 🌱 I’m currently learning JAVA DSA and Web Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram: kshitij.patel_21
