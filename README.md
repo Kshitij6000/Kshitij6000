@@ -32,14 +32,6 @@
 </details>
 
 
-## Random
-
-<details>
- <summary>Listening on the Spotify</summary>
- <div align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=y147z9k7vyvofpbezgpnfcoxv">
-  </div>
-</details>
 <!---
 Kshitij6000/Kshitij6000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
